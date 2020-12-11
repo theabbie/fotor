@@ -1,0 +1,24 @@
+{
+  "name": "fotor",
+  "version": "1.0.0",
+  "description": "Unofficial Fotor API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'working'"
+  },
+  "funding": "https://theabbie.github.io",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theabbie/fotor.git"
+  },
+  "keywords": [
+    "fotor",
+    "theabbie"
+  ],
+  "author": "theabbie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theabbie/fotor/issues"
+  },
+  "homepage": "https://github.com/theabbie/fotor#readme"
+}
