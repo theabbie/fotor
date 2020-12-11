@@ -1,0 +1,2 @@
+# fotor
+Unofficial Fotor API
